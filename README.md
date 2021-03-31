@@ -19,7 +19,7 @@ git clone https://github.com/SLoharkar/Enumeration.git
 - Change to cloned directory and run `enum.sh` -
 ````
 $ cd Enumeration
-chmod +x enum.sh && ./enum.sh
+chmod +x enum.sh && ./enum.sh OR bash enum.sh
 ````
 ## Dependencies
 **`Enumeration`** requires following programs to run properly -
