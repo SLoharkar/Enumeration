@@ -1,3 +1,16 @@
+printf " Automatically Check dependencies and Install "
+a1=("hydra" "nmap" "dnsenum")
+i=0
+while [ $i -lt 4 ]
+do
+if ! which ${a1[$i]}  > /dev/null; then
+	sudo apt install ${a1[$i]} >/dev/null 2>&1 
+	
+fi
+i=`expr $i + 1`
+done 
+clear
+
 int=""
 hello ()
 {
