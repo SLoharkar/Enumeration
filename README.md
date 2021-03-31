@@ -16,7 +16,7 @@
 ```bash
 git clone https://github.com/SLoharkar/Enumeration.git
 ```
-- Change to cloned directory and run `scan.sh` -
+- Change to cloned directory and run `enum.sh` -
 ````
 $ cd Enumeration
 chmod +x enum.sh && ./enum.sh
