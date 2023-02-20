@@ -1,4 +1,4 @@
-# Multifle Enumeration tools at one Place using Shell Script in Linux
+# Multiple Enumeration tools at one Place using Shell Script in Linux
 
 ## Introduction 
 - In the Shell Script is used to perform multiple Enumeration tools at one script used to easy hacking and learning  
